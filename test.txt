@@ -4,3 +4,4 @@ test3
 test4
 test522
 test522 local_2
+test522 local_2 b
